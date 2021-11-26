@@ -83,6 +83,7 @@ Version: `0.0.1`
 ## Inspiration
 
 - [University of Florida Citizen Science Curriculum](https://citizenscientist.ctsi.ufl.edu/)
+- [Open Source Society University](https://github.com/ossu/)
 
 
 
