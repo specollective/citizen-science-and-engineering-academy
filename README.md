@@ -1,10 +1,17 @@
 # Citizen Science and Engineering Academy
 
-The Citizen Science and Engineering Academy (CSEA) is an open community with the mission of uplifting disadvantaged communities and achieving sustainable development through community science and humanitarian engineering.
+The Citizen Science and Engineering Academy (CSEA) is a community of scientists, engineers, educators and learners with the mission of uplifting disadvantaged communities and promoting sustainable development through community science and humanitarian engineering.
 
 ## Summary
 
 The Sustainable Progress and Equality Collective (SPEC) is currently developing the concept for the academy. SPEC is seeking partners interested in build the capabilities of the academy. If you would like to contribute to the CSEA or sign up to be a student, please create an issue on this repository or email SPEC at info@specollective.org.
+
+## Motivation
+
+We need highly trained scientists and engineers to tackle global challenges like climate change, pandemic diseases, water crisis, and food security. Traditional bachelors degree programs in science and engineering take 4-5 years to complete. A college education in the United States can cost tens of thousands of dollars. We can't afford to wait to address these global challenges, while we train the next generation of problems solvers. And we certaintly can't wait for new graduates in science and engineering to find finds jobs and pay off their students loans, before turning to address the problems facing their communities.
+
+Coding bootcamps and Massive Open Online Courses (MOOCS) have emerged to meet the demand for skilled software developers and technologists, and fill the gap left by tranditional colleges and universities. Similarly, the aim of the Citizen Science and Engineering Academy is rapidly train scientists and engineers and empower them to create solutions most pressing challenges facing society and the environment.
+
 
 ## Curriculum 
 
