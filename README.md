@@ -6,6 +6,10 @@ The mission of the Citizen Science and Engineering Academy is to provide open ed
 
 Interested in learning more about this project? Please email us at [info@specollective.org](mailto:info@specollective.org).
 
+# Table of Contents
+
+To be continued...
+
 ## Inspiration
 
 - [University of Florida Citizen Science Curriculum](https://citizenscientist.ctsi.ufl.edu/)
